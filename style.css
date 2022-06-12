@@ -1,3 +1,5 @@
+
+
 header, main{
   display: flex;
   flex-direction: column;
@@ -10,4 +12,11 @@ img {
 button{
   width: 80px;
   cursor: pointer;
+  width: 135px;
+  height: 55px;
+  font-size:27px;
+  border-radius: 20px;
+  background: greenyellow;
+  box-shadow: 5px 5px 5px grey;
+
 }

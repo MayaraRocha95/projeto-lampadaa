@@ -1,5 +1,4 @@
 const turnOnOff = document.getElementById('turnOnOff');
-
 const lampada = document.getElementById('lamp');
 
 function isLampBroken (){
@@ -31,7 +30,6 @@ function lampOnOff () {
   }
 }
 turnOnOff.addEventListener('click', lampOnOff);
-
 lampada.addEventListener('mouseover', lampOn);
 lampada.addEventListener('mouseout', lampOff);
 lampada.addEventListener('dblclick', lampBroken);
