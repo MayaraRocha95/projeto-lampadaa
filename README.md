@@ -1,2 +1,2 @@
-# projeto-lampadaa
-Este projeto tem o objetivo de estudar o JavaScript 
+## Projeto lâmpada
+Este projeto tem o objetivo de estudar o JavaScript. 
